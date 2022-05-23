@@ -1,2 +1,3 @@
-# influeHands-ML
-Capstone Bangkit 2022
+# influeHands - All Influencer in Our Hands
+Particular attention brings us to the solution of easiness in planning social media marketing/campaign. As we mentioned above, social media users from Indonesia have dramatically increased. It implies a more promising Indonesian audience and the growth of influencers. Influencers have played a significant role in the success of social media marketing/campaigns. An unpopular brand/influencer to the most well-known brand/influencer will benefit each other owing to this idea. Though, any brand will discover a sort of influencer that is relevant to their criteria. Therefore, our team will develop a platform that aims to provide such a service.
+
