@@ -2,7 +2,7 @@
 Particular attention brings us to the solution of easiness in planning social media marketing/campaign. As we mentioned above, social media users from Indonesia have dramatically increased. It implies a more promising Indonesian audience and the growth of influencers. Influencers have played a significant role in the success of social media marketing/campaigns. An unpopular brand/influencer to the most well-known brand/influencer will benefit each other owing to this idea. Though, any brand will discover a sort of influencer that is relevant to their criteria. Therefore, our team will develop a platform that aims to provide such a service.
 
 ## About Dataset
-We use a dataset of influencers from Instagram and TikTok from [SocialBlade](https://socialblade.com/), We collect this dataset from the beginning by selecting one by one influencer that we will include in our dataset
+We use a dataset of influencers from Instagram and TikTok from [SocialBlade](https://socialblade.com/), We collect this dataset from scratch by selecting one by one influencer that we will include in our dataset
 
 ## About Model
 
