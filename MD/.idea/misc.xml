@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/drawable/bg.xml" value="0.1" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/drawable/ic_logo.xml" value="0.1" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/drawable/logo.xml" value="0.1" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/activity_main_brand.xml" value="0.13917525773195877" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/activity_main_influencer.xml" value="0.25" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/activity_register_brand.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/activity_register_influencer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/fragment_brand_home.xml" value="0.1" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/fragment_brand_user_profile.xml" value="0.1" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/fragment_influencer_home.xml" value="0.1" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/fragment_influencer_user_profile.xml" value="0.14545454545454545" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/layout/item_row_goverment.xml" value="0.1" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/menu/brand_bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/ijoe/AndroidStudioProjects/BangkitCapstone/app/src/main/res/menu/influencer_bottom_navigation.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
